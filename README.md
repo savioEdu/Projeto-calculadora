@@ -27,6 +27,16 @@ Caso o usuario digite letras ou contas incorretas o sistema retorna e exibira um
 
 Ate o momento o programa não realiza divisão por zero não contem históricos de operação ou tratamento de porcentagem.
 
+Durante o desenvolvimento foram aplicados conceitos fundamentais de programação, como:
+
+* Variáveis
+* Funções
+* Estruturas condicionais (`if`, `elif` e `else`)
+* Laços de repetição (`while`)
+* Entrada e saída de dados
+* Operações matemáticas
+* Tratamento de erros
+
 ## Módulos usados e estrutura do projeto
 
 ```text
