@@ -1,0 +1,18 @@
+# Comandos usandos para criar arquivos em python e executar script da calculadora.sh
+
+#Lista dos comandos usados
+Navegação: mkdir, cd, ls, rm -r, cd .. 
+
+Permissão: chmod, ll
+
+Editores de texto: Nano calculadora.sh e nano calculadora.py
+
+Shell Script: .sh
+
+#Aplicação dos comandos para alterar as permissões dos arquivos da calculadora:
+ll = para verificar as permissões 
+chmod 744 = para definir permissão de escrita e execução para o proprietário e leitura para os outros
+
+#Executar a calculadora
+./calculadora.sh
+
